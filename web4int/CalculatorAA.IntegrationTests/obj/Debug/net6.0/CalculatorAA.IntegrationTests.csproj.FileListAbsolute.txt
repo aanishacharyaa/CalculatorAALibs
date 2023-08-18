@@ -1,0 +1,6 @@
+C:\Users\aa\Desktop\web4int\CalculatorAA.IntegrationTests\obj\Debug\net6.0\CalculatorAA.IntegrationTests.csproj.AssemblyReference.cache
+C:\Users\aa\Desktop\web4int\CalculatorAA.IntegrationTests\obj\Debug\net6.0\CalculatorAA.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa\Desktop\web4int\CalculatorAA.IntegrationTests\obj\Debug\net6.0\CalculatorAA.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\aa\Desktop\web4int\CalculatorAA.IntegrationTests\obj\Debug\net6.0\CalculatorAA.IntegrationTests.AssemblyInfo.cs
+C:\Users\aa\Desktop\web4int\CalculatorAA.IntegrationTests\obj\Debug\net6.0\CalculatorAA.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\aa\Desktop\web4int\CalculatorAA.IntegrationTests\obj\Debug\net6.0\MvcTestingAppManifest.json
